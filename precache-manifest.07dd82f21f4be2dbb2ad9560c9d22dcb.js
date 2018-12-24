@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/square-portfolio/static/media/man1.ccaa8adb.png"
   },
   {
-    "revision": "fcc23f7d6c752733ab63c7e442fc7431",
+    "revision": "be7a25d9b8530ecd72b7bfc0068317ee",
     "url": "/square-portfolio/index.html"
   }
 ];
