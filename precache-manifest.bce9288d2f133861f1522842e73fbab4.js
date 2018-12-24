@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/square-portfolio/static/media/megan.bd2a45bc.png"
   },
   {
-    "revision": "84274c9c71f511265fa8",
-    "url": "/square-portfolio/static/css/main.73a7af86.chunk.css"
+    "revision": "7fddafd644fe0c4946e5",
+    "url": "/square-portfolio/static/css/main.cfd6d5e0.chunk.css"
   },
   {
     "revision": "e5913ae580436db225a8",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/square-portfolio/static/media/kira.e46bfbea.png"
   },
   {
-    "revision": "84274c9c71f511265fa8",
-    "url": "/square-portfolio/static/js/main.84274c9c.chunk.js"
+    "revision": "7fddafd644fe0c4946e5",
+    "url": "/square-portfolio/static/js/main.7fddafd6.chunk.js"
   },
   {
     "revision": "2212d3b48a2c7ec35801501a533cecf5",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/square-portfolio/static/media/man1.ccaa8adb.png"
   },
   {
-    "revision": "be7a25d9b8530ecd72b7bfc0068317ee",
+    "revision": "9e4bf002f58cb20b137afc3077254a81",
     "url": "/square-portfolio/index.html"
   }
 ];

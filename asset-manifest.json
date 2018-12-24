@@ -1,7 +1,7 @@
 {
-  "main.css": "/square-portfolio/static/css/main.73a7af86.chunk.css",
-  "main.js": "/square-portfolio/static/js/main.84274c9c.chunk.js",
-  "main.js.map": "/square-portfolio/static/js/main.84274c9c.chunk.js.map",
+  "main.css": "/square-portfolio/static/css/main.cfd6d5e0.chunk.css",
+  "main.js": "/square-portfolio/static/js/main.7fddafd6.chunk.js",
+  "main.js.map": "/square-portfolio/static/js/main.7fddafd6.chunk.js.map",
   "static/js/1.e5913ae5.chunk.js": "/square-portfolio/static/js/1.e5913ae5.chunk.js",
   "static/js/1.e5913ae5.chunk.js.map": "/square-portfolio/static/js/1.e5913ae5.chunk.js.map",
   "runtime~main.js": "/square-portfolio/static/js/runtime~main.0b0954f4.js",
@@ -21,8 +21,8 @@
   "static/media/olivia.png": "/square-portfolio/static/media/olivia.8a370038.png",
   "static/media/brad.png": "/square-portfolio/static/media/brad.e57fef01.png",
   "static/media/man1.png": "/square-portfolio/static/media/man1.ccaa8adb.png",
-  "static/css/main.73a7af86.chunk.css.map": "/square-portfolio/static/css/main.73a7af86.chunk.css.map",
+  "static/css/main.cfd6d5e0.chunk.css.map": "/square-portfolio/static/css/main.cfd6d5e0.chunk.css.map",
   "index.html": "/square-portfolio/index.html",
-  "precache-manifest.07dd82f21f4be2dbb2ad9560c9d22dcb.js": "/square-portfolio/precache-manifest.07dd82f21f4be2dbb2ad9560c9d22dcb.js",
+  "precache-manifest.bce9288d2f133861f1522842e73fbab4.js": "/square-portfolio/precache-manifest.bce9288d2f133861f1522842e73fbab4.js",
   "service-worker.js": "/square-portfolio/service-worker.js"
 }
